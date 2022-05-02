@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome">स्वागत हे</string>
+    <string name="date">दिनांक</string>
+</resources>
